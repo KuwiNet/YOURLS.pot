@@ -13,4 +13,4 @@ define( 'YOURLS_LANG', 'zh_CN' );
 参照：https://yourls.org/docs/guide/extend/languages#install-your-language
 
 ## 申明
-由 Poedit 软件翻译，如有不对敬请谅解。
+由 Poedit 软件翻译，如有错误敬请谅解。
